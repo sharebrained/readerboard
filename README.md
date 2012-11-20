@@ -6,7 +6,7 @@ otherwise fine and useful pieces of hardware to the scrapheap. This project
 aims to replace the hardware and software in these signs, giving them new
 life.
 
-![Readerboard running Church of Robotron](https://raw.github.com/sharebrained/readerboard/master/documentation/robotron_readerboard.jpg)
+![Readerboard running Church of Robotron](https://raw.github.com/sharebrained/readerboard/master/documentation/photos/robotron_readerboard.jpg)
 
 Go troll eBay, buy a "broken" LED sign, and join the party!
 
