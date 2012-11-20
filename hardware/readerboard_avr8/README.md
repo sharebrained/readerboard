@@ -7,14 +7,13 @@ LED readerboards based on Hitachi 6309 controllers.
 Status
 ======
 
-This board has not yet been fabricated or tested. It is based on other stable
-designs, and a prototype using an Arduino Leonardo.
+This board has been fabricated and tested, and works well. It is based on other
+stable designs, and a prototype using an Arduino Leonardo.
 
 Bill of Materials
 =================
 
-See readerboard_avr8_bom.csv. I have not built this board from the BOM yet, so
-expect errors, and be sure to re-check against the respective datasheets.
+See readerboard_avr8_bom.csv.
 
 Requirements
 ============
